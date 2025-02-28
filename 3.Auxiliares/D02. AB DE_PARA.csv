@@ -1,0 +1,168 @@
+Variavel,ID,Descricao
+Votante,0,ThompsonFlores
+Votante,1,DjaciFalcao
+Votante,2,AntonioNeder
+Votante,3,XavierAlbuquerque
+Votante,4,LeitaoAbreu
+Votante,5,CordeiroGuerra
+Votante,6,MoreiraAlves
+Votante,7,CunhaPeixoto
+Votante,8,SoaresMunoz
+Votante,9,DecioMiranda
+Votante,10,RafaelMayer
+Votante,11,ClovisRamalhete
+Votante,12,FirminoPaz
+Votante,13,NeriSilveira
+Votante,14,AlfredoBuzaid
+Votante,15,OscarCorrea
+Votante,16,AldirPassarinho
+Votante,17,FranciscoRezek
+Votante,18,SydneySanches
+Votante,19,OctavioGallotti
+Votante,20,CarlosMadeira
+Votante,21,CelioBorja
+Votante,22,PauloBrossard
+Votante,23,SepulvedaPertence
+Votante,24,CelsodeMello
+Votante,25,MarcoAurelio
+Votacao,0,ID_STF_8
+Votacao,1,ID_STF_13
+Votacao,2,ID_STF_38
+Votacao,3,ID_STF_42
+Votacao,4,ID_STF_46
+Votacao,5,ID_STF_52
+Votacao,6,ID_STF_53
+Votacao,7,ID_STF_9
+Votacao,8,ID_STF_12
+Votacao,9,ID_STF_14
+Votacao,10,ID_STF_33
+Votacao,11,ID_STF_47
+Votacao,12,ID_STF_55
+Votacao,13,ID_STF_60
+Votacao,14,ID_STF_66
+Votacao,15,ID_STF_78
+Votacao,16,ID_STF_83
+Votacao,17,ID_STF_85
+Votacao,18,ID_STF_87
+Votacao,19,ID_STF_98
+Votacao,20,ID_STF_100
+Votacao,21,ID_STF_104
+Votacao,22,ID_STF_106
+Votacao,23,ID_STF_108
+Votacao,24,ID_STF_112
+Votacao,25,ID_STF_113
+Votacao,26,ID_STF_119
+Votacao,27,ID_STF_120
+Votacao,28,ID_STF_123
+Votacao,29,ID_STF_124
+Votacao,30,ID_STF_125
+Votacao,31,ID_STF_130
+Votacao,32,ID_STF_135
+Votacao,33,ID_STF_137
+Votacao,34,ID_STF_151
+Votacao,35,ID_STF_161
+Votacao,36,ID_STF_162
+Votacao,37,ID_STF_165
+Votacao,38,ID_STF_175
+Votacao,39,ID_STF_176
+Votacao,40,ID_STF_182
+Votacao,41,ID_STF_196
+Votacao,42,ID_STF_237
+Votacao,43,ID_STF_247
+Votacao,44,ID_STF_251
+Votacao,45,ID_STF_258
+Votacao,46,ID_STF_278
+Votacao,47,ID_STF_283
+Votacao,48,ID_STF_289
+Votacao,49,ID_STF_296
+Votacao,50,ID_STF_300
+Votacao,51,ID_STF_302
+Votacao,52,ID_STF_305
+Votacao,53,ID_STF_321
+Votacao,54,ID_STF_325
+Votacao,55,ID_STF_331
+Votacao,56,ID_STF_343
+Votacao,57,ID_STF_361
+Votacao,58,ID_STF_372
+Votacao,59,ID_STF_401
+Votacao,60,ID_STF_408
+Votacao,61,ID_STF_413
+Votacao,62,ID_STF_415
+Votacao,63,ID_STF_422
+Votacao,64,ID_STF_430
+Votacao,65,ID_STF_438
+Votacao,66,ID_STF_471
+Votacao,67,ID_STF_503
+Votacao,68,ID_STF_515
+Votacao,69,ID_STF_622
+Votacao,70,ID_STF_18
+Votacao,71,ID_STF_308
+Votacao,72,ID_STF_315
+Votacao,73,ID_STF_351
+Votacao,74,ID_STF_97
+UF,0,MA
+UF,1,PB
+UF,2,RJ
+UF,3,GO
+UF,4,SP
+UF,5,DF
+UF,6,ES
+UF,7,RS
+UF,8,PR
+UF,9,AM
+UF,10,SE
+UF,11,MG
+UF,12,MS
+UF,13,BA
+UF,14,PI
+UF,15,MT
+UF,16,PE
+UF,17,AL
+Relator,0,DJACI FALCAO
+Relator,1,CORDEIRO GUERRA
+Relator,2,MOREIRA ALVES
+Relator,3,CUNHA PEIXOTO
+Relator,4,SOARES MUNOZ
+Relator,5,XAVIER DE ALBUQUERQUE
+Relator,6,RAFAEL MAYER
+Relator,7,DECIO MIRANDA
+Relator,8,FRANCISCO REZEK
+Relator,9,NERI DA SILVEIRA
+Relator,10,ALFREDO BUZAID
+Relator,11,ALDIR PASSARINHO
+Relator,12,CELIO BORJA
+Relator,13,OSCAR CORREA
+Relator,14,SYDNEY SANCHES
+Relator,15,CARLOS MADEIRA
+Relator,16,LEITAO DE ABREU
+Relator,17,OCTAVIO GALLOTTI
+TEMA,0,Adm Justica
+TEMA,1,Sociedade civil
+TEMA,2,Federalismo
+TEMA,3,Agentes Justica
+TEMA,4,Agentes Publicos
+TEMA,5,Adm Publica
+TEMA,6,Economia
+TEMA,7,Politica fiscal
+TEMA,8,Politica tributaria
+AMBITO,0,Judicial
+AMBITO,1,Estadual
+AMBITO,2,Federal
+RECREQ,0,PJ
+RECREQ,1,EXECUTIVO ESTADUAL
+RECREQ,2,GOVERNO ESTADUAL
+RECREQ,3,LEGISLATIVO ESTADUAL
+RECREQ,4,GOVERNO FEDERAL
+RECREQ,5,OUTRO
+RECREQ,6,EXECUTIVO FEDERAL
+Presidente,0,Costa e Silva
+Presidente,1,Castello Branco
+Presidente,2,Garrastazu Médici
+Presidente,3,Ernesto Geisel
+Presidente,4,João Figueiredo
+Presidente,5,José Sarney
+Presidente,6,Collor
+Magistratura,0,SIM
+Magistratura,1,NÃO
+Politica,0,NÃO
+Politica,1,SIM

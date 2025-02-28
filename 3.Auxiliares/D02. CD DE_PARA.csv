@@ -1,0 +1,137 @@
+Variavel,ID,Descricao
+Votante,0,DjaciFalcao
+Votante,1,CordeiroGuerra
+Votante,2,MoreiraAlves
+Votante,3,SoaresMunoz
+Votante,4,DecioMiranda
+Votante,5,RafaelMayer
+Votante,6,NeriSilveira
+Votante,7,OscarCorrea
+Votante,8,AldirPassarinho
+Votante,9,FranciscoRezek
+Votante,10,SydneySanches
+Votante,11,OctavioGallotti
+Votante,12,CarlosMadeira
+Votante,13,CelioBorja
+Votacao,0,ID_STF_8
+Votacao,1,ID_STF_9
+Votacao,2,ID_STF_12
+Votacao,3,ID_STF_13
+Votacao,4,ID_STF_14
+Votacao,5,ID_STF_47
+Votacao,6,ID_STF_53
+Votacao,7,ID_STF_55
+Votacao,8,ID_STF_60
+Votacao,9,ID_STF_66
+Votacao,10,ID_STF_78
+Votacao,11,ID_STF_83
+Votacao,12,ID_STF_85
+Votacao,13,ID_STF_87
+Votacao,14,ID_STF_98
+Votacao,15,ID_STF_100
+Votacao,16,ID_STF_104
+Votacao,17,ID_STF_106
+Votacao,18,ID_STF_108
+Votacao,19,ID_STF_112
+Votacao,20,ID_STF_113
+Votacao,21,ID_STF_119
+Votacao,22,ID_STF_120
+Votacao,23,ID_STF_123
+Votacao,24,ID_STF_124
+Votacao,25,ID_STF_125
+Votacao,26,ID_STF_135
+Votacao,27,ID_STF_151
+Votacao,28,ID_STF_162
+Votacao,29,ID_STF_165
+Votacao,30,ID_STF_175
+Votacao,31,ID_STF_176
+Votacao,32,ID_STF_196
+Votacao,33,ID_STF_237
+Votacao,34,ID_STF_247
+Votacao,35,ID_STF_251
+Votacao,36,ID_STF_258
+Votacao,37,ID_STF_278
+Votacao,38,ID_STF_283
+Votacao,39,ID_STF_289
+Votacao,40,ID_STF_296
+Votacao,41,ID_STF_300
+Votacao,42,ID_STF_302
+Votacao,43,ID_STF_305
+Votacao,44,ID_STF_321
+Votacao,45,ID_STF_325
+Votacao,46,ID_STF_331
+Votacao,47,ID_STF_343
+Votacao,48,ID_STF_361
+Votacao,49,ID_STF_372
+Votacao,50,ID_STF_401
+Votacao,51,ID_STF_408
+Votacao,52,ID_STF_422
+Votacao,53,ID_STF_430
+Votacao,54,ID_STF_438
+Votacao,55,ID_STF_471
+Votacao,56,ID_STF_622
+Votacao,57,ID_STF_18
+Votacao,58,ID_STF_308
+Votacao,59,ID_STF_315
+Votacao,60,ID_STF_351
+Votacao,61,ID_STF_97
+UF,0,MA
+UF,1,GO
+UF,2,DF
+UF,3,PB
+UF,4,SP
+UF,5,ES
+UF,6,RS
+UF,7,RJ
+UF,8,PR
+UF,9,AM
+UF,10,SE
+UF,11,MG
+UF,12,MS
+UF,13,BA
+UF,14,PI
+UF,15,MT
+UF,16,PE
+UF,17,AL
+Relator,0,DJACI FALCAO
+Relator,1,RAFAEL MAYER
+Relator,2,DECIO MIRANDA
+Relator,3,CORDEIRO GUERRA
+Relator,4,FRANCISCO REZEK
+Relator,5,NERI DA SILVEIRA
+Relator,6,XAVIER DE ALBUQUERQUE
+Relator,7,CUNHA PEIXOTO
+Relator,8,SOARES MUNOZ
+Relator,9,ALFREDO BUZAID
+Relator,10,MOREIRA ALVES
+Relator,11,ALDIR PASSARINHO
+Relator,12,CELIO BORJA
+Relator,13,OSCAR CORREA
+Relator,14,SYDNEY SANCHES
+Relator,15,LEITAO DE ABREU
+Relator,16,OCTAVIO GALLOTTI
+TEMA,0,Adm Justica
+TEMA,1,Sociedade civil
+TEMA,2,Adm Publica
+TEMA,3,Agentes Publicos
+TEMA,4,Agentes Justica
+TEMA,5,Federalismo
+TEMA,6,Economia
+AMBITO,0,Judicial
+AMBITO,1,Estadual
+AMBITO,2,Federal
+RECREQ,0,PJ
+RECREQ,1,GOVERNO ESTADUAL
+RECREQ,2,GOVERNO FEDERAL
+RECREQ,3,EXECUTIVO ESTADUAL
+RECREQ,4,LEGISLATIVO ESTADUAL
+RECREQ,5,OUTRO
+RECREQ,6,EXECUTIVO FEDERAL
+Presidente,0,Castello Branco
+Presidente,1,Ernesto Geisel
+Presidente,2,João Figueiredo
+Presidente,3,José Sarney
+Magistratura,0,SIM
+Magistratura,1,NÃO
+Politica,0,NÃO
+Politica,1,SIM

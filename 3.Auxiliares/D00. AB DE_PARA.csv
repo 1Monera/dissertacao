@@ -1,0 +1,701 @@
+Variavel,ID,Descricao
+Votante,0,SPARKMAN (D AL)
+Votante,1,HILL (D AL)
+Votante,2,GRUENING (D AK)
+Votante,3,BARTLETT (D AK)
+Votante,4,HAYDEN (D AZ)
+Votante,5,FANNIN (R AZ)
+Votante,6,FULBRIGHT (D AR)
+Votante,7,MCCLELLAN (D AR)
+Votante,8,KUCHEL (R CA)
+Votante,9,MURPHY (R CA)
+Votante,10,DOMINICK (R CO)
+Votante,11,ALLOTT (R CO)
+Votante,12,DODD (D CT)
+Votante,13,RIBICOFF (D CT)
+Votante,14,BOGGS (R DE)
+Votante,15,WILLIAMS (R DE)
+Votante,16,SMATHERS (D FL)
+Votante,17,HOLLAND (D FL)
+Votante,18,RUSSELL (D GA)
+Votante,19,TALMADGE (D GA)
+Votante,20,FONG (R HI)
+Votante,21,INOUYE (D HI)
+Votante,22,CHURCH (D ID)
+Votante,23,JORDAN (R ID)
+Votante,24,DIRKSEN (R IL)
+Votante,25,PERCY (R IL)
+Votante,26,HARTKE (D IN)
+Votante,27,BAYH (D IN)
+Votante,28,MILLER (R IA)
+Votante,29,HICKENLOOPE (R IA)
+Votante,30,CARLSON (R KS)
+Votante,31,PEARSON (R KS)
+Votante,32,COOPER (R KY)
+Votante,33,MORTON (R KY)
+Votante,34,ELLENDER (D LA)
+Votante,35,LONG (D LA)
+Votante,36,MUSKIE (D ME)
+Votante,37,SMITH (R ME)
+Votante,38,BREWSTER (D MD)
+Votante,39,TYDINGS (D MD)
+Votante,40,BROOKE (R MA)
+Votante,41,KENNEDY (D MA)
+Votante,42,GRIFFIN (R MI)
+Votante,43,HART (D MI)
+Votante,44,MONDALE (D MN)
+Votante,45,MCCARTHY (D MN)
+Votante,46,STENNIS (D MS)
+Votante,47,EASTLAND (D MS)
+Votante,48,SYMINGTON (D MO)
+Votante,49,LONG (D MO)
+Votante,50,METCALF (D MT)
+Votante,51,MANSFIELD (D MT)
+Votante,52,CURTIS (R NE)
+Votante,53,HRUSKA (R NE)
+Votante,54,BIBLE (D NV)
+Votante,55,CANNON (D NV)
+Votante,56,MCINTYRE (D NH)
+Votante,57,COTTON (R NH)
+Votante,58,CASE (R NJ)
+Votante,59,WILLIAMS (D NJ)
+Votante,60,ANDERSON (D NM)
+Votante,61,MONTOYA (D NM)
+Votante,62,JAVITS (R NY)
+Votante,63,KENNEDY (D NY)
+Votante,64,JORDAN (D NC)
+Votante,65,ERVIN (D NC)
+Votante,66,YOUNG (R ND)
+Votante,67,BURDICK (D ND)
+Votante,68,YOUNG (D OH)
+Votante,69,LAUSCHE (D OH)
+Votante,70,MONRONEY (D OK)
+Votante,71,HARRIS (D OK)
+Votante,72,MORSE (D OR)
+Votante,73,HATFIELD (R OR)
+Votante,74,SCOTT (R PA)
+Votante,75,CLARK (D PA)
+Votante,76,PASTORE (D RI)
+Votante,77,PELL (D RI)
+Votante,78,HOLLINGS (D SC)
+Votante,79,THURMOND (R SC)
+Votante,80,MCGOVERN (D SD)
+Votante,81,MUNDT (R SD)
+Votante,82,BAKER (R TN)
+Votante,83,GORE (D TN)
+Votante,84,YARBOROUGH (D TX)
+Votante,85,TOWER (R TX)
+Votante,86,BENNETT (R UT)
+Votante,87,MOSS (D UT)
+Votante,88,PROUTY (R VT)
+Votante,89,AIKEN (R VT)
+Votante,90,SPONG (D VA)
+Votante,91,BYRD (D VA)
+Votante,92,MAGNUSON (D WA)
+Votante,93,JACKSON (D WA)
+Votante,94,RANDOLPH (D WV)
+Votante,95,BYRD (D WV)
+Votante,96,PROXMIRE (D WI)
+Votante,97,NELSON (D WI)
+Votante,98,HANSEN (R WY)
+Votante,99,MCGEE (D WY)
+Votante,100,JOHNSON (D USA)
+Votante,101,GOODELL (R NY)
+Votacao,0,Vote 1
+Votacao,1,Vote 2
+Votacao,2,Vote 3
+Votacao,3,Vote 4
+Votacao,4,Vote 5
+Votacao,5,Vote 6
+Votacao,6,Vote 7
+Votacao,7,Vote 8
+Votacao,8,Vote 9
+Votacao,9,Vote 10
+Votacao,10,Vote 11
+Votacao,11,Vote 12
+Votacao,12,Vote 13
+Votacao,13,Vote 14
+Votacao,14,Vote 15
+Votacao,15,Vote 16
+Votacao,16,Vote 17
+Votacao,17,Vote 18
+Votacao,18,Vote 19
+Votacao,19,Vote 20
+Votacao,20,Vote 21
+Votacao,21,Vote 22
+Votacao,22,Vote 23
+Votacao,23,Vote 24
+Votacao,24,Vote 25
+Votacao,25,Vote 26
+Votacao,26,Vote 27
+Votacao,27,Vote 28
+Votacao,28,Vote 29
+Votacao,29,Vote 30
+Votacao,30,Vote 31
+Votacao,31,Vote 32
+Votacao,32,Vote 33
+Votacao,33,Vote 34
+Votacao,34,Vote 35
+Votacao,35,Vote 36
+Votacao,36,Vote 37
+Votacao,37,Vote 38
+Votacao,38,Vote 39
+Votacao,39,Vote 40
+Votacao,40,Vote 41
+Votacao,41,Vote 42
+Votacao,42,Vote 43
+Votacao,43,Vote 44
+Votacao,44,Vote 45
+Votacao,45,Vote 46
+Votacao,46,Vote 47
+Votacao,47,Vote 48
+Votacao,48,Vote 49
+Votacao,49,Vote 50
+Votacao,50,Vote 51
+Votacao,51,Vote 52
+Votacao,52,Vote 53
+Votacao,53,Vote 54
+Votacao,54,Vote 55
+Votacao,55,Vote 56
+Votacao,56,Vote 57
+Votacao,57,Vote 58
+Votacao,58,Vote 59
+Votacao,59,Vote 60
+Votacao,60,Vote 61
+Votacao,61,Vote 62
+Votacao,62,Vote 63
+Votacao,63,Vote 64
+Votacao,64,Vote 65
+Votacao,65,Vote 66
+Votacao,66,Vote 67
+Votacao,67,Vote 68
+Votacao,68,Vote 69
+Votacao,69,Vote 70
+Votacao,70,Vote 71
+Votacao,71,Vote 72
+Votacao,72,Vote 73
+Votacao,73,Vote 74
+Votacao,74,Vote 75
+Votacao,75,Vote 76
+Votacao,76,Vote 77
+Votacao,77,Vote 78
+Votacao,78,Vote 79
+Votacao,79,Vote 80
+Votacao,80,Vote 81
+Votacao,81,Vote 82
+Votacao,82,Vote 83
+Votacao,83,Vote 84
+Votacao,84,Vote 85
+Votacao,85,Vote 86
+Votacao,86,Vote 87
+Votacao,87,Vote 88
+Votacao,88,Vote 89
+Votacao,89,Vote 90
+Votacao,90,Vote 91
+Votacao,91,Vote 92
+Votacao,92,Vote 93
+Votacao,93,Vote 94
+Votacao,94,Vote 95
+Votacao,95,Vote 96
+Votacao,96,Vote 97
+Votacao,97,Vote 98
+Votacao,98,Vote 99
+Votacao,99,Vote 100
+Votacao,100,Vote 101
+Votacao,101,Vote 102
+Votacao,102,Vote 103
+Votacao,103,Vote 104
+Votacao,104,Vote 105
+Votacao,105,Vote 106
+Votacao,106,Vote 107
+Votacao,107,Vote 108
+Votacao,108,Vote 109
+Votacao,109,Vote 110
+Votacao,110,Vote 111
+Votacao,111,Vote 112
+Votacao,112,Vote 113
+Votacao,113,Vote 114
+Votacao,114,Vote 115
+Votacao,115,Vote 116
+Votacao,116,Vote 117
+Votacao,117,Vote 118
+Votacao,118,Vote 119
+Votacao,119,Vote 120
+Votacao,120,Vote 121
+Votacao,121,Vote 122
+Votacao,122,Vote 123
+Votacao,123,Vote 124
+Votacao,124,Vote 125
+Votacao,125,Vote 126
+Votacao,126,Vote 127
+Votacao,127,Vote 128
+Votacao,128,Vote 129
+Votacao,129,Vote 130
+Votacao,130,Vote 131
+Votacao,131,Vote 132
+Votacao,132,Vote 133
+Votacao,133,Vote 134
+Votacao,134,Vote 135
+Votacao,135,Vote 136
+Votacao,136,Vote 137
+Votacao,137,Vote 138
+Votacao,138,Vote 139
+Votacao,139,Vote 140
+Votacao,140,Vote 141
+Votacao,141,Vote 142
+Votacao,142,Vote 143
+Votacao,143,Vote 144
+Votacao,144,Vote 145
+Votacao,145,Vote 146
+Votacao,146,Vote 147
+Votacao,147,Vote 148
+Votacao,148,Vote 149
+Votacao,149,Vote 150
+Votacao,150,Vote 151
+Votacao,151,Vote 152
+Votacao,152,Vote 153
+Votacao,153,Vote 154
+Votacao,154,Vote 155
+Votacao,155,Vote 156
+Votacao,156,Vote 157
+Votacao,157,Vote 158
+Votacao,158,Vote 159
+Votacao,159,Vote 160
+Votacao,160,Vote 161
+Votacao,161,Vote 162
+Votacao,162,Vote 163
+Votacao,163,Vote 164
+Votacao,164,Vote 165
+Votacao,165,Vote 166
+Votacao,166,Vote 167
+Votacao,167,Vote 168
+Votacao,168,Vote 169
+Votacao,169,Vote 170
+Votacao,170,Vote 171
+Votacao,171,Vote 172
+Votacao,172,Vote 173
+Votacao,173,Vote 174
+Votacao,174,Vote 175
+Votacao,175,Vote 176
+Votacao,176,Vote 177
+Votacao,177,Vote 178
+Votacao,178,Vote 179
+Votacao,179,Vote 180
+Votacao,180,Vote 181
+Votacao,181,Vote 182
+Votacao,182,Vote 183
+Votacao,183,Vote 184
+Votacao,184,Vote 185
+Votacao,185,Vote 186
+Votacao,186,Vote 187
+Votacao,187,Vote 188
+Votacao,188,Vote 189
+Votacao,189,Vote 190
+Votacao,190,Vote 191
+Votacao,191,Vote 192
+Votacao,192,Vote 193
+Votacao,193,Vote 194
+Votacao,194,Vote 195
+Votacao,195,Vote 196
+Votacao,196,Vote 197
+Votacao,197,Vote 198
+Votacao,198,Vote 199
+Votacao,199,Vote 200
+Votacao,200,Vote 201
+Votacao,201,Vote 202
+Votacao,202,Vote 203
+Votacao,203,Vote 204
+Votacao,204,Vote 205
+Votacao,205,Vote 206
+Votacao,206,Vote 207
+Votacao,207,Vote 208
+Votacao,208,Vote 209
+Votacao,209,Vote 210
+Votacao,210,Vote 211
+Votacao,211,Vote 212
+Votacao,212,Vote 213
+Votacao,213,Vote 214
+Votacao,214,Vote 215
+Votacao,215,Vote 216
+Votacao,216,Vote 217
+Votacao,217,Vote 218
+Votacao,218,Vote 219
+Votacao,219,Vote 220
+Votacao,220,Vote 221
+Votacao,221,Vote 222
+Votacao,222,Vote 223
+Votacao,223,Vote 224
+Votacao,224,Vote 225
+Votacao,225,Vote 226
+Votacao,226,Vote 227
+Votacao,227,Vote 228
+Votacao,228,Vote 229
+Votacao,229,Vote 230
+Votacao,230,Vote 231
+Votacao,231,Vote 232
+Votacao,232,Vote 233
+Votacao,233,Vote 234
+Votacao,234,Vote 235
+Votacao,235,Vote 236
+Votacao,236,Vote 237
+Votacao,237,Vote 238
+Votacao,238,Vote 239
+Votacao,239,Vote 240
+Votacao,240,Vote 241
+Votacao,241,Vote 242
+Votacao,242,Vote 243
+Votacao,243,Vote 244
+Votacao,244,Vote 245
+Votacao,245,Vote 246
+Votacao,246,Vote 247
+Votacao,247,Vote 248
+Votacao,248,Vote 249
+Votacao,249,Vote 250
+Votacao,250,Vote 251
+Votacao,251,Vote 252
+Votacao,252,Vote 253
+Votacao,253,Vote 254
+Votacao,254,Vote 255
+Votacao,255,Vote 256
+Votacao,256,Vote 257
+Votacao,257,Vote 258
+Votacao,258,Vote 259
+Votacao,259,Vote 260
+Votacao,260,Vote 261
+Votacao,261,Vote 262
+Votacao,262,Vote 263
+Votacao,263,Vote 264
+Votacao,264,Vote 265
+Votacao,265,Vote 266
+Votacao,266,Vote 267
+Votacao,267,Vote 268
+Votacao,268,Vote 269
+Votacao,269,Vote 270
+Votacao,270,Vote 271
+Votacao,271,Vote 272
+Votacao,272,Vote 273
+Votacao,273,Vote 274
+Votacao,274,Vote 275
+Votacao,275,Vote 276
+Votacao,276,Vote 277
+Votacao,277,Vote 278
+Votacao,278,Vote 279
+Votacao,279,Vote 280
+Votacao,280,Vote 281
+Votacao,281,Vote 282
+Votacao,282,Vote 283
+Votacao,283,Vote 284
+Votacao,284,Vote 285
+Votacao,285,Vote 286
+Votacao,286,Vote 287
+Votacao,287,Vote 288
+Votacao,288,Vote 289
+Votacao,289,Vote 290
+Votacao,290,Vote 291
+Votacao,291,Vote 292
+Votacao,292,Vote 293
+Votacao,293,Vote 294
+Votacao,294,Vote 295
+Votacao,295,Vote 296
+Votacao,296,Vote 297
+Votacao,297,Vote 298
+Votacao,298,Vote 299
+Votacao,299,Vote 300
+Votacao,300,Vote 301
+Votacao,301,Vote 302
+Votacao,302,Vote 303
+Votacao,303,Vote 304
+Votacao,304,Vote 305
+Votacao,305,Vote 306
+Votacao,306,Vote 307
+Votacao,307,Vote 308
+Votacao,308,Vote 309
+Votacao,309,Vote 310
+Votacao,310,Vote 311
+Votacao,311,Vote 312
+Votacao,312,Vote 313
+Votacao,313,Vote 314
+Votacao,314,Vote 315
+Votacao,315,Vote 316
+Votacao,316,Vote 317
+Votacao,317,Vote 318
+Votacao,318,Vote 319
+Votacao,319,Vote 320
+Votacao,320,Vote 321
+Votacao,321,Vote 322
+Votacao,322,Vote 323
+Votacao,323,Vote 324
+Votacao,324,Vote 325
+Votacao,325,Vote 326
+Votacao,326,Vote 327
+Votacao,327,Vote 328
+Votacao,328,Vote 329
+Votacao,329,Vote 330
+Votacao,330,Vote 331
+Votacao,331,Vote 332
+Votacao,332,Vote 333
+Votacao,333,Vote 334
+Votacao,334,Vote 335
+Votacao,335,Vote 336
+Votacao,336,Vote 337
+Votacao,337,Vote 338
+Votacao,338,Vote 339
+Votacao,339,Vote 340
+Votacao,340,Vote 341
+Votacao,341,Vote 342
+Votacao,342,Vote 343
+Votacao,343,Vote 344
+Votacao,344,Vote 345
+Votacao,345,Vote 346
+Votacao,346,Vote 347
+Votacao,347,Vote 348
+Votacao,348,Vote 349
+Votacao,349,Vote 350
+Votacao,350,Vote 351
+Votacao,351,Vote 352
+Votacao,352,Vote 353
+Votacao,353,Vote 354
+Votacao,354,Vote 355
+Votacao,355,Vote 356
+Votacao,356,Vote 357
+Votacao,357,Vote 358
+Votacao,358,Vote 359
+Votacao,359,Vote 360
+Votacao,360,Vote 361
+Votacao,361,Vote 362
+Votacao,362,Vote 363
+Votacao,363,Vote 364
+Votacao,364,Vote 365
+Votacao,365,Vote 366
+Votacao,366,Vote 367
+Votacao,367,Vote 368
+Votacao,368,Vote 369
+Votacao,369,Vote 370
+Votacao,370,Vote 371
+Votacao,371,Vote 372
+Votacao,372,Vote 373
+Votacao,373,Vote 374
+Votacao,374,Vote 375
+Votacao,375,Vote 376
+Votacao,376,Vote 377
+Votacao,377,Vote 378
+Votacao,378,Vote 379
+Votacao,379,Vote 380
+Votacao,380,Vote 381
+Votacao,381,Vote 382
+Votacao,382,Vote 383
+Votacao,383,Vote 384
+Votacao,384,Vote 385
+Votacao,385,Vote 386
+Votacao,386,Vote 387
+Votacao,387,Vote 388
+Votacao,388,Vote 389
+Votacao,389,Vote 390
+Votacao,390,Vote 391
+Votacao,391,Vote 392
+Votacao,392,Vote 393
+Votacao,393,Vote 394
+Votacao,394,Vote 395
+Votacao,395,Vote 396
+Votacao,396,Vote 397
+Votacao,397,Vote 398
+Votacao,398,Vote 399
+Votacao,399,Vote 400
+Votacao,400,Vote 401
+Votacao,401,Vote 402
+Votacao,402,Vote 403
+Votacao,403,Vote 404
+Votacao,404,Vote 405
+Votacao,405,Vote 406
+Votacao,406,Vote 407
+Votacao,407,Vote 408
+Votacao,408,Vote 409
+Votacao,409,Vote 410
+Votacao,410,Vote 411
+Votacao,411,Vote 412
+Votacao,412,Vote 413
+Votacao,413,Vote 414
+Votacao,414,Vote 415
+Votacao,415,Vote 416
+Votacao,416,Vote 417
+Votacao,417,Vote 418
+Votacao,418,Vote 419
+Votacao,419,Vote 420
+Votacao,420,Vote 421
+Votacao,421,Vote 422
+Votacao,422,Vote 423
+Votacao,423,Vote 424
+Votacao,424,Vote 425
+Votacao,425,Vote 426
+Votacao,426,Vote 427
+Votacao,427,Vote 428
+Votacao,428,Vote 429
+Votacao,429,Vote 430
+Votacao,430,Vote 431
+Votacao,431,Vote 432
+Votacao,432,Vote 433
+Votacao,433,Vote 434
+Votacao,434,Vote 435
+Votacao,435,Vote 436
+Votacao,436,Vote 437
+Votacao,437,Vote 438
+Votacao,438,Vote 439
+Votacao,439,Vote 440
+Votacao,440,Vote 441
+Votacao,441,Vote 442
+Votacao,442,Vote 443
+Votacao,443,Vote 444
+Votacao,444,Vote 445
+Votacao,445,Vote 446
+Votacao,446,Vote 447
+Votacao,447,Vote 448
+Votacao,448,Vote 449
+Votacao,449,Vote 450
+Votacao,450,Vote 451
+Votacao,451,Vote 452
+Votacao,452,Vote 453
+Votacao,453,Vote 454
+Votacao,454,Vote 455
+Votacao,455,Vote 456
+Votacao,456,Vote 457
+Votacao,457,Vote 458
+Votacao,458,Vote 459
+Votacao,459,Vote 460
+Votacao,460,Vote 461
+Votacao,461,Vote 462
+Votacao,462,Vote 463
+Votacao,463,Vote 464
+Votacao,464,Vote 465
+Votacao,465,Vote 466
+Votacao,466,Vote 467
+Votacao,467,Vote 468
+Votacao,468,Vote 469
+Votacao,469,Vote 470
+Votacao,470,Vote 471
+Votacao,471,Vote 472
+Votacao,472,Vote 473
+Votacao,473,Vote 474
+Votacao,474,Vote 475
+Votacao,475,Vote 476
+Votacao,476,Vote 477
+Votacao,477,Vote 478
+Votacao,478,Vote 479
+Votacao,479,Vote 480
+Votacao,480,Vote 481
+Votacao,481,Vote 482
+Votacao,482,Vote 483
+Votacao,483,Vote 484
+Votacao,484,Vote 485
+Votacao,485,Vote 486
+Votacao,486,Vote 487
+Votacao,487,Vote 488
+Votacao,488,Vote 489
+Votacao,489,Vote 490
+Votacao,490,Vote 491
+Votacao,491,Vote 492
+Votacao,492,Vote 493
+Votacao,493,Vote 494
+Votacao,494,Vote 495
+Votacao,495,Vote 496
+Votacao,496,Vote 497
+Votacao,497,Vote 498
+Votacao,498,Vote 499
+Votacao,499,Vote 500
+Votacao,500,Vote 501
+Votacao,501,Vote 502
+Votacao,502,Vote 503
+Votacao,503,Vote 504
+Votacao,504,Vote 505
+Votacao,505,Vote 506
+Votacao,506,Vote 507
+Votacao,507,Vote 508
+Votacao,508,Vote 509
+Votacao,509,Vote 510
+Votacao,510,Vote 511
+Votacao,511,Vote 512
+Votacao,512,Vote 513
+Votacao,513,Vote 514
+Votacao,514,Vote 515
+Votacao,515,Vote 516
+Votacao,516,Vote 517
+Votacao,517,Vote 518
+Votacao,518,Vote 519
+Votacao,519,Vote 520
+Votacao,520,Vote 521
+Votacao,521,Vote 522
+Votacao,522,Vote 523
+Votacao,523,Vote 524
+Votacao,524,Vote 525
+Votacao,525,Vote 526
+Votacao,526,Vote 527
+Votacao,527,Vote 528
+Votacao,528,Vote 529
+Votacao,529,Vote 530
+Votacao,530,Vote 531
+Votacao,531,Vote 532
+Votacao,532,Vote 533
+Votacao,533,Vote 534
+Votacao,534,Vote 535
+Votacao,535,Vote 536
+Votacao,536,Vote 537
+Votacao,537,Vote 538
+Votacao,538,Vote 539
+Votacao,539,Vote 540
+Votacao,540,Vote 541
+Votacao,541,Vote 542
+Votacao,542,Vote 543
+Votacao,543,Vote 544
+Votacao,544,Vote 545
+Votacao,545,Vote 546
+Votacao,546,Vote 547
+Votacao,547,Vote 548
+Votacao,548,Vote 549
+Votacao,549,Vote 550
+Votacao,550,Vote 551
+Votacao,551,Vote 552
+Votacao,552,Vote 553
+Votacao,553,Vote 554
+Votacao,554,Vote 555
+Votacao,555,Vote 556
+Votacao,556,Vote 557
+Votacao,557,Vote 558
+Votacao,558,Vote 559
+Votacao,559,Vote 560
+Votacao,560,Vote 561
+Votacao,561,Vote 562
+Votacao,562,Vote 563
+Votacao,563,Vote 564
+Votacao,564,Vote 565
+Votacao,565,Vote 566
+Votacao,566,Vote 567
+Votacao,567,Vote 568
+Votacao,568,Vote 569
+Votacao,569,Vote 570
+Votacao,570,Vote 571
+Votacao,571,Vote 572
+Votacao,572,Vote 573
+Votacao,573,Vote 574
+Votacao,574,Vote 575
+Votacao,575,Vote 576
+Votacao,576,Vote 577
+Votacao,577,Vote 578
+Votacao,578,Vote 579
+Votacao,579,Vote 580
+Votacao,580,Vote 581
+Votacao,581,Vote 582
+Votacao,582,Vote 583
+Votacao,583,Vote 584
+Votacao,584,Vote 585
+Votacao,585,Vote 586
+Votacao,586,Vote 587
+Votacao,587,Vote 588
+Votacao,588,Vote 589
+Votacao,589,Vote 590
+Votacao,590,Vote 591
+Votacao,591,Vote 592
+Votacao,592,Vote 593
+Votacao,593,Vote 594
+Votacao,594,Vote 595
+Votacao,595,Vote 596
+Partido,0,D
+Partido,1,R
